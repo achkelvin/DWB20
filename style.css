@@ -1,0 +1,24 @@
+header {
+	border: 1px dashed green;
+	padding: 10px;
+	margin: 50px;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-family: futura;
+  font-size: 300%;
+}
+h2 {
+	color: white;
+  font-family: futura;
+}
+p {
+	color: #609f75;
+	margin-top: 20px;
+	font-family: calibri;
+	font-size: 20px;
+}
+body {
+  background-color: black;
+}
